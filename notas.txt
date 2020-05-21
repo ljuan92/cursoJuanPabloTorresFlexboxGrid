@@ -1,0 +1,7 @@
+FLEXBOX
+
+
+flex
+wrap:
+
+hay dos opciones
